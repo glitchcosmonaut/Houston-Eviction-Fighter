@@ -2,5 +2,5 @@ Victor is a cooperative effort to bring legal aid to those who may not have the 
 
 
 
-Here is a [link to Victor](https://api.motion.ai/webchat/57055?color=62a8ea&sendBtn=SEND&inputBox=Type%20something...&token=34048e3f5674672a8587511dec14abf9) hosted through motion.ai, the service which the chatbot was developed through.
+Here is a [link to the Fighter](https://api.motion.ai/webchat/57055?color=62a8ea&sendBtn=SEND&inputBox=Type%20something...&token=34048e3f5674672a8587511dec14abf9) hosted through motion.ai, the service which the chatbot was developed through.
 
