@@ -1,7 +1,4 @@
-# Victor: The eviction aid chatbot
-
-You can use the [editor on GitHub](https://github.com/glitchcosmonaut/eviction-chat-bot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+Here is a [link to Victor](https://api.motion.ai/webchat/57055?color=62a8ea&sendBtn=SEND&inputBox=Type%20something...&token=34048e3f5674672a8587511dec14abf9) for easy reference
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
