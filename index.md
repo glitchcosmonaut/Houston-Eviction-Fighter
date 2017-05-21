@@ -8,6 +8,7 @@ A quick [link to a legal aid database for the Houston area](https://www.justia.c
 
 Developed for the 2017 Houston Hackathon
 
+#Developers
 Legal Research and Design: Ken Johnson
 
 Chatbot development: Christy Leos, Jawuan Williams, and Edwin Cheng
