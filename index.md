@@ -4,9 +4,7 @@ Here is a [link to the Fighter](https://api.motion.ai/webchat/57055?color=62a8ea
 
 A quick [link to a legal aid database for the Houston area](https://www.justia.com/lawyers/texas/harris-county/legal-aid-and-pro-bono-services)
 
-##Developers
-
-Developed for the 2017 Houston Hackathon
+## Developers
 
 Legal Research and Design: Ken Johnson
 
